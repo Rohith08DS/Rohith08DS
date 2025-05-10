@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Rohith
 
 
-**Rohith D S** is a ✨Java Full Stake Developer ✨.
+I AM **✨Java Full Stake Developer ✨**.
 
 <!-- Here are some ideas to get you started:
 
