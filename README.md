@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Rohith
 
 
-I AM **✨Java Full Stake Developer ✨**.
+I am **✨Java Full Stake Developer ✨**.
 
 <!-- Here are some ideas to get you started:
 
